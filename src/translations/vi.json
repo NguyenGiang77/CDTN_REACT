@@ -1,0 +1,168 @@
+{
+    "home-header": {
+        "specialty": "Chuyên khoa",
+        "infor":"Thông tin các chuyên khoa",
+        "hospital": "Cơ sở y tế",
+        "choose-hospital": "Chọn bệnh viện, phòng khám",
+        "doctor":"Bác sĩ",
+        "choose-doctor": "Chọn bác sĩ khám",
+        "medical": "Gói khám bệnh",
+        "choose-medical": "Chọn gói khám sức khỏe",
+        "help": "Hỗ trợ",
+        "search": "Tìm kiếm chuyên khoa",
+        "welcome": "Xin chào"
+
+    },
+    "banner": {
+        "title1": "NỀN TẢNG Y TẾ",
+        "title2": "CHĂM SÓC SỨC KHỎE MỌI NGƯỜI",
+        "specialty": "Khám chuyên khoa",
+        "faraway": "Khám từ xa",
+        "generality": "Khám tổng quát",
+        "test": "Xét nghiệm y học",
+        "nerve": "Khám sức khỏe tinh thần",
+        "dental": "Khám nha khoa",
+        "select": "Tìm kiếm bác sĩ" 
+    }
+
+    ,
+    "menu": {
+        "admin": {
+            "manage-user": "Quản lý người dùng",
+            "manage-doctor": "Quản lý thông tin bác sĩ",
+            "manage-admin": "Quản lý thông tin Admin",
+            "crub": "CRUD user",
+            "crub-redux": "CRUD redux",
+            "manage-clinic": "Quản lý thông tin bệnh viện, phòng khám",
+            "clinic": "Cơ sở y tế",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": "Quản lý thông tin chuyên khoa",
+            "handbook": "Cẩm nang",
+            "manage-handbook": "Quản lý cẩm nang"
+        },
+        "doctor": {
+            "schedule": "Quản lý kế hoạch khám bệnh"
+
+        }
+    },
+    "manage-user": {
+        "add": "Thêm mới người dùng",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "first": "Tên",
+        "last": "Họ và Đệm",
+        "phone": "Số điện thoại",
+        "gender": "Giới tính",
+        "address": "Địa chỉ",
+        "position": "Chức danh",
+        "roleid": "Vai trò",
+        "image": "Ảnh đại diện",
+        "save": "Lưu",
+        "edit": "Lưu thay đổi"
+    },
+    "homepage": {
+        "doctor": "Bác sĩ nổi bật tuần qua",
+        "More": "Xem thêm"
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's examination plan"   ,
+        "choose-doctor": "Chọn bác sĩ",
+        "choose-date": "Chọn ngày",
+        "Save": "Lưu thông tin",
+        "Message": "Bác sĩ không có lịch hẹn trong thời gian này, vui lòng chọn thời gian khác!",
+        "calendar": "Lịch khám",
+        "choose": "Chọn ",
+        "book": " và đặt (miễn phí)"
+
+    },
+    "extra-infor-doctor": {
+        "address": "ĐỊA CHỈ KHÁM",
+        "price-1": "GÍA KHÁM",
+        "price-2": "Giá khám",
+        "payment": " Người bệnh có thể thanh toán chi phí bằng hình thức: ",
+        "more": "Xem chi tiết",
+        "hide": "Ẩn bảng giá"
+    },
+    "manage-doctor": {
+        "title": "THÊM THÔNG TIN BÁC SĨ",
+        "choose-doctor": "Chọn bác sĩ",
+        "details": "Thông tin giới thiệu",
+        "save": "Lưu thông tin",
+        "create": "Tạo thông tin",
+        "choose-price": "Chọn giá khám bệnh",
+        "choose-province": "Chọn tỉnh thành",
+        "choose-payment": "Chọn phương thức thanh toán",
+        "note": "Ghi chú",
+        "specialty": "Chọn chuyên khoa",
+        "clinic": "Chọn phòng khám, bệnh viện"
+
+    },
+    "bookings-modal": {
+        "price": "Giá khám: ",
+        "name": "Họ và tên",
+        "sex": "Giới tính",
+        "birthday": "Ngày sinh",
+        "number": "Số điện thoại",
+        "address": "Địa chỉ liên hệ",
+        "email":"Địa chỉ Email",
+        "reasons": "Lý do khám",
+        "save": "Xác nhận",
+        "cancel": "Hủy",
+        "booking": "Miễn phí đặt lịch",
+        "comfirm": "Xác nhận lịch hẹn thành công!",
+        "failed": "Lịch hẹn không tồn tại hoặc đã được xác nhận rồi!",
+        "more": "Xem thêm"
+    },
+    "toast": {
+        
+        
+        "manage-schedule": {
+            "succeed": "Thành công!",
+            "error-time": "Thời gian đã chọn không hợp lệ!"
+        },
+        
+        "booking-modal": {
+            "comfirm-success": "Đăng ký lịch khám bệnh thành công!",
+            "comfirm-warning": "Đăng ký lịch khám bệnh không thành công!"
+
+        },
+        "admin-action": {
+            "success-create-user": "Tạo người dùng thành công!",
+            "error-create-user": "Tạo người dùng thất bại!",
+            "succeed-delete-user": "Xóa người dùng thành công!",
+            "error-delete-user": "Xóa người dùng thất bại!",
+            "succeed-update-user": "Cập nhật thông tin người dùng thành công!",
+            "error-update-user": "Cập nhật thông tin người dùng thất bại!",
+            "succeed-post-doctor": "Lưu thông tin bác sĩ thành công!",
+            "error-post-doctor": "Lưu thông tin bác sĩ thất bại!"
+
+        },
+        "manage-specialty": {
+            "succeed": "Thêm mới thành công",
+            "error": "Thêm mới không thành công"
+        },
+        "manage-clinic": {
+            "succeed": "Thêm mới thành công",
+            "error": "Thêm mới không thành công"
+        }
+        
+    },
+    "manage-specialty":{
+        "name": "Tên chuyên khoa",
+        "image": "Ảnh chuyên khoa",
+        "save": "Thêm mới",
+        "file": "Tải ảnh"
+    },
+    "manage-clinic":{
+        "title": "Quản lý chuyên khoa",
+        "name": "Tên phòng khám, bệnh viện",
+        "image": "Ảnh phòng khám, bệnh viện",
+        "save": "Thêm mới",
+        "file": "Tải ảnh",
+        "address": "Địa chỉ"
+    }
+
+    
+
+
+}

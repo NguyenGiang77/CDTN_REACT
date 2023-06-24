@@ -1,0 +1,69 @@
+.infor-doctor-container{
+    .infor-doctor-content{
+        padding: 0 150px 0 100px;
+        display: flex;
+        .content-left{
+            width: 20%;
+            border: 1px solid rgb(230, 229, 229);
+            background: center center no-repeat;
+            width: 120px !important;
+            height: 120px !important;
+            background-size: cover;
+            border-radius: 50%;
+            //margin: 10px 20px !important;
+        }
+        .content-right{
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            padding-left: 15px;
+            .up{
+                font-size: 20px;
+                font-weight: 600;
+                padding-top: 10px;
+            }
+            .down{
+                padding-top: 10px;
+                font-size: 13px;
+            }
+            
+        }
+    }
+    .schedule-doctor{
+        @media (min-width: 760px) {
+            padding: 0 150px 30px 100px;
+            
+                height: 100%;
+                display: flex;
+                clear: both;
+        }
+        padding: 0 50px 30px 50px;
+        height: 100%;
+        display: flex;
+        clear: both;
+
+        .content-left{
+            @media (min-width: 760px) {
+                    width: 50%;
+                    float: left;
+                }
+            width: 60%;
+        }
+        .content-right{
+            @media (min-width: 760px) {
+                    width: 50%;
+                    float: left;
+                    padding-left: 20px;
+                    border-top: none;
+                    margin-top: 0px;
+                    border-left: 1px solid #eee;
+                }
+            width: 40%;
+        }
+    }
+    .detail-infor-doctor{
+        padding: 20px 150px 0 100px;
+        background: rgb(243, 242, 242);
+        border: 0.5px solid rgb(184, 184, 184);
+    }
+}

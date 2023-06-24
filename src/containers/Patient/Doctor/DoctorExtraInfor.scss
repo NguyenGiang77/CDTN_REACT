@@ -1,0 +1,61 @@
+.doctor-infor-conteiner{
+   padding-left: 10px;
+    .content-up{
+        margin-bottom: 5px;
+        .title-address {
+            color: rgb(124, 125, 125);
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+
+    }
+    .content-down{
+        .title-cash{
+            margin-bottom: 5px;
+            
+            .currency{
+                margin-bottom: 5px;
+                margin: 0 10px;
+                float: right;
+            }
+        }
+        .detail {
+                    cursor: pointer;
+                    color: rgb(28, 161, 239) !important;
+        }
+        
+        .title-cash-hide {
+            margin-bottom: 5px;
+            border: 1px solid #ddd;
+            .cash {
+                background: #f6f6f6;
+                    .price {
+                        .price-left {}
+            
+                        .price-right {
+                            float: right !important;
+                        }
+                    }
+                }
+            
+                .note {
+                   padding-right: 5px;
+                    background: #f6f6f6;
+                }
+            
+                .payment {
+                    padding-right: 5px;
+                    background: #e9e7e7;
+                }
+        }
+        
+        .hide{
+            
+            span {
+                    cursor: pointer;
+                    color: rgb(28, 161, 239) !important;
+                }
+        }
+        
+    }
+}

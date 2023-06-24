@@ -1,0 +1,27 @@
+.img-container{
+
+    .label-img{
+        padding: 5px;
+        border-radius: 5px;
+        background: rgb(185, 185, 185);
+        cursor: pointer;
+        &:hover{
+            color: white;
+            background: #2b6286;
+        }
+    }
+    .image{
+        height: 100px;
+        width: 100%;
+        border: 1px solid #ececec;
+        background: center center no-repeat;
+        background-size: contain;
+        cursor: pointer;
+    }
+}
+.btn-primary {
+    border: 1px solid #2b6286;
+    color: white;
+    background: #2b6286;
+
+}

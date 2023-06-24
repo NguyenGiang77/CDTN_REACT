@@ -1,0 +1,43 @@
+.booking-container{
+    
+    .booking-content{
+        display: flex;
+        flex-direction: column;
+        .booking-header {
+            padding: 10px 10px;
+            border-bottom: 1px solid #eee;
+            height: 100%;
+            .left {}
+            
+            .right {
+                float: right;
+                cursor: pointer;
+            }
+        }
+
+        .booking-body {
+            height: 100%;
+            padding: 10px;
+        }
+
+        .booking-footer {
+            padding: 10px 10px;
+            
+            display: flex;
+            justify-content: flex-end;
+            // float: right;
+            height: 50px;
+            border-top: 1px solid #eee;
+            gap: 15px;
+            .save{
+                font-size: 12px !important;
+                
+            }
+            .cancel{
+                font-size: 12px !important;
+                background: #676464;
+            }
+        }
+        }
+    
+}

@@ -1,0 +1,164 @@
+{
+    "home-header": {
+        "specialty": "Specialty",
+        "infor":"Find a doctor by specialty",
+        "hospital": "Health facilities",
+        "choose-hospital": "Choose a hospital, clinic",
+        "doctor":"Doctor",
+        "choose-doctor": "Choose a good doctor",
+        "medical": "Medical package",
+        "choose-medical": "Choose a medical package",
+        "help": "Help",
+        "search": "Search",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title1": "MEDICAL PLATFORM",
+        "title2": "EVERYONE'S HEALTH CARE",
+        "specialty": "Specialist examination",
+        "faraway": "Remote examination",
+        "generality": "General examination",
+        "test": "Medical test",
+        "nerve": "Mental health check",
+        "dental": "Dental examination" ,
+        "select": "Search doctor"
+    },
+
+    "menu": {
+        "admin": {
+            "manage-user": "User",
+            "manage-doctor": "Manage doctor",
+            "manage-admin": "Manage admin", 
+            "crub": "CRUD user",
+            "crub-redux": "CRUD redux",
+            "manage-clinic": "Manage hospital and clinical",
+            "clinic": "Healthy facilities",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+        },
+        "doctor": {
+            "schedule": "Manage Doctor's schedule"
+
+        }
+        
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first": "First name",
+        "last": "Last name",
+        "phone": "Phone number",
+        "gender": "Gender",
+        "address": "Address",
+        "position": "Position",
+        "roleid": "Role",
+        "image": "Avatar",
+        "save": "Save",
+        "edit": "Save changes"
+    },
+    "homepage": {
+        "doctor": "Last week's featured doctor",
+        "More": "See more"
+    },
+    "manage-schedule": {
+        "title": "Quản lý kế hoạch khám bệnh của bác sĩ",
+        "choose-doctor": "Choose a doctor",
+        "choose-date": "Choose date",
+        "Save" : "Save",
+        "Message": "The doctor does not have an appointment during this time, please choose another time!",
+        "calendar": "Schedule",
+        "choose": "Choose ",
+        "book": " and Book (free)"
+    },
+    "extra-infor-doctor": {
+        "address": "ADDRESS OF EXAMINATION",
+        "price-1": "EXAMINATION PRICE",
+        "price-2": "Examination price",
+        "payment": "The patient can pay the cost in the form of: ",
+        "more": "See more",
+        "hide": "Hide price list"
+    },
+    "manage-doctor": {
+        "title": "ADD DOCTOR'S INFORMATION",
+        "choose-doctor": "Select doctor",
+        "details": "Introduction",
+        "save": "Save",
+        "create": "Create",
+        "choose-price": "Select price",
+        "choose-province": "Select provinces",
+        "choose-payment": "Select payment",
+
+        "note": "Note",
+        "specialty": "Select specialty",
+        "clinic": "Select clinic"
+    },
+    
+    
+
+        "bookings-modal": {
+            "price": "Examination price : ",
+            "name": "Your name",
+            "sex": "Gender",
+            "birthday": "Date of birthday",
+            "number": "Phone number",
+            "address": "Address",
+            "email":"Email",
+            
+            "reasons": "Reason for examination",
+            "save": "Confirm",
+            "cancel": "Cancel",
+            "booking": "Free booking",
+            "comfirm": "Appointment confirmed successfully!",
+            "failed": "The appointment does not exist or is already confirmed!",
+            "more": "See more"
+    },
+    "toast": {
+        "manage-schedule": {
+            "succeed": "Success!",
+            "error-time": "Invalid selected time!"
+        },
+        "booking-modal": {
+            "comfirm-success": "Booking a new appointment succeed!",
+            "comfirm-warning": "Booking a new appointment error!"
+
+        },
+        "admin-action": {
+
+            "success-create-user": "Create user succeed!",
+            "error-create-user": "Create user failed!",
+            "succeed-delete-user": "Delete user succeed!",
+            "error-delete-user": "Delete user failed!",
+            "succeed-update-user": "Update user succeed!",
+            "error-update-user": "Update user failed!",
+            "succeed-post-doctor": "Save infor doctor succeed!",
+            "error-post-doctor": "Save infor doctor failed!"
+
+        },
+        "manage-specialty": {
+            "succeed": "Succeed!",
+            "error": "Something wrongs"
+        },
+        "manage-clinic": {
+            "succeed": "Succeed!",
+            "error": "Something wrongs"
+        }
+        
+    },
+    "manage-specialty":{
+        "name": "Specialty's name",
+        "image": "Specialty's image",
+        "save": "Create",
+        "file": "Download"
+    },
+    "manage-clinic":{
+        "title": "Specialized management",
+        "name": "Clinic's name",
+        "image": "Clinic's image",
+        "save": "Create",
+        "file": "Download",
+        "address": "Address"
+    }
+}
